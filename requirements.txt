@@ -1,0 +1,17 @@
+gevent
+klein
+hyperlink
+boto3
+typing
+future
+six
+jsonschema
+matplotlib
+requests
+tqdm
+numpy
+simplejson
+cloudpickle
+msgpack-python
+spacy
+sklearn_crfsuite
